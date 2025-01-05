@@ -1,3 +1,6 @@
 [submodule "ms_rest_template_consule"]
 	path = ms_rest_template_consule
 	url = https://github.com/RabbitMicro/ms_rest_template_consule.git
+[submodule "ms_rest_template_eureka"]
+	path = ms_rest_template_eureka
+	url = https://github.com/RabbitMicro/ms_rest_template_eureka.git
